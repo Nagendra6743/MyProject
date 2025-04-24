@@ -6,7 +6,7 @@ Copy the code
 # Print a welcome message
 echo "Welcome to Jenkins Shell Script Execution!"
 
-# Navigate to the desired directory (change to your specific directory)
+# Navigate to the desired directory (change specific directory)
 cd /path/to/your/directory
 
 # List files in the directory
